@@ -7,3 +7,4 @@
 |01|[Day 1 - Expanding Cards](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Expanding_Cards)|
 |02|[Day 2 - Progress Steps](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Progress_Steps)|
 |03|[Day 3 - Rotating Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Rotating_Navigation)|
+|04|[Day 4 - Hidden Search Widget](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hidden_Search_Widget)|
