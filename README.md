@@ -9,3 +9,4 @@
 |03|[Day 3 - Rotating Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Rotating_Navigation)|
 |04|[Day 4 - Hidden Search Widget](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hidden_Search_Widget)|
 |05|[Day 5 - Blurry Loading](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Blurry_Loading)|
+06|[Day 6 - Scroll Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/)|
