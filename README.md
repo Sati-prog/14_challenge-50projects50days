@@ -11,3 +11,4 @@
 |05|[Day 5 - Blurry Loading](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Blurry_Loading)|
 06|[Day 6 - Scroll Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Scroll_Animation)|
 |07|[Day 7 - Split Landing Page](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Split_Landing_Page)|
+|08|[Day 8 - Form Wave Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Form_Wave_Animation)|
