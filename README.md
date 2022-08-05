@@ -13,3 +13,4 @@
 |07|[Day 7 - Split Landing Page](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Split_Landing_Page)|
 |08|[Day 8 - Form Wave Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Form_Wave_Animation)|
 |09|[Day 9 - Sound Board](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sound_Board)|
+|10|[Day 10 - Dad Jokes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Dad_Jokes)|
