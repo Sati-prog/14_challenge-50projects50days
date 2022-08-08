@@ -1,4 +1,4 @@
-#Сhallenge - 50 projects 50 days
+# Сhallenge - 50 projects 50 days
 
 Как и многие, я решила пройти челлендж, чтобы закрепить свои знания, умения и навыки, а также подтянуть английский язык. Планирую по будням делать по одному проекту, т.к. в выходные дни я стараюсь проводить с семьей или за бытовыми делами. Присоединяйтесь! Должно быть очень увлекательно ;)
 
@@ -16,3 +16,4 @@
 |10|[Day 10 - Dad Jokes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Dad_Jokes)|
 |11|[Day 11 - Event KeyCodes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Event_KeyCodes)|
 |12|[Day 12 - FAQ Collapse](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/FAQ_Collapse)|
+|13|[Day 13 - Random Choice Picker](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Choice_Picker)|
