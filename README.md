@@ -17,3 +17,4 @@
 |11|[Day 11 - Event KeyCodes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Event_KeyCodes)|
 |12|[Day 12 - FAQ Collapse](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/FAQ_Collapse)|
 |13|[Day 13 - Random Choice Picker](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Choice_Picker)|
+|14|[Day 14 - Animated Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Animated_Navigation)|
