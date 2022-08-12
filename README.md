@@ -1,6 +1,6 @@
 # Сhallenge - 50 projects 50 days
 
-Как и многие, я решила пройти челлендж, чтобы закрепить свои знания, умения и навыки, а также подтянуть английский язык. Планирую по будням делать по одному проекту, т.к. в выходные дни я стараюсь проводить с семьей или за бытовыми делами. Присоединяйтесь! Должно быть очень увлекательно ;)
+Like many others, I decided to take the challenge to consolidate my knowledge, skills, and improve my English. I plan to do one project a day on weekdays, because on weekends I try to spend with my family or doing household chores. Join now! Should be very exciting ;)
 
 |№|Project|
 |--|-----|
@@ -20,3 +20,4 @@
 |14|[Day 14 - Animated Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Animated_Navigation)|
 |15|[Day 15 - Incrementing Counter](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Incrementing_Counter)|
 |16|[Day 16 - Drink Water](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drink_Water)|
+|17|[Day 17 - Movie App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Movie_App)|
