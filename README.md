@@ -23,3 +23,4 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |17|[Day 17 - Movie App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Movie_App)|
 |18|[Day 18 - Background Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Background_Slider)|
 |19|[Day 19 - Theme Clock](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Theme_Clock)|
+|20|[Day 20 - Button Ripple Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Button_Ripple_Effect)|
