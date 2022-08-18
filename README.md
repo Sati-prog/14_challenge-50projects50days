@@ -26,3 +26,4 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |20|[Day 20 - Button Ripple Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Button_Ripple_Effect)|
 |21|[Day 21 - Drag N Drop](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drag_N_Drop)|
 |22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|
+|23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|
