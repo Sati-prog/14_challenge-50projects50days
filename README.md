@@ -28,3 +28,4 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|
 |23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|
 |24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|
+|25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|
