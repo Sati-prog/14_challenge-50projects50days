@@ -30,3 +30,4 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|
 |25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|
 |26|[Day 26 - Double Vertical Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Double_Vertical_Slider)|
+|27|[Day 27 - Toast Notification](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Toast_Notification)|
