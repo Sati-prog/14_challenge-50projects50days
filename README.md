@@ -2,11 +2,11 @@
 
 Like many others, I decided to take the challenge to consolidate my knowledge, skills, and improve my English. I plan to do one project a day on weekdays, because on weekends I try to spend with my family or doing household chores. Join now! Should be very exciting ;)
 
-|№|Project|
-|--|-----|
-|01|[Day 1 - Expanding Cards](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Expanding_Cards)|
-|02|[Day 2 - Progress Steps](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Progress_Steps)|
-|03|[Day 3 - Rotating Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Rotating_Navigation)|
+|№|Project|№|Project|
+|--|-----|--|-----|
+|01|[Day 1 - Expanding Cards](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Expanding_Cards)|26|[Day 26 - Double Vertical Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Double_Vertical_Slider)|
+|02|[Day 2 - Progress Steps](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Progress_Steps)|27|[Day 27 - Toast Notification](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Toast_Notification)|
+|03|[Day 3 - Rotating Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Rotating_Navigation)|28|[Day 28 - Github Profiles](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Github_Profiles)|
 |04|[Day 4 - Hidden Search Widget](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hidden_Search_Widget)|
 |05|[Day 5 - Blurry Loading](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Blurry_Loading)|
 |06|[Day 6 - Scroll Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Scroll_Animation)|
@@ -29,5 +29,3 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|
 |24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|
 |25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|
-|26|[Day 26 - Double Vertical Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Double_Vertical_Slider)|
-|27|[Day 27 - Toast Notification](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Toast_Notification)|
