@@ -10,7 +10,7 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |04|[Day 4 - Hidden Search Widget](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hidden_Search_Widget)|29|[Day 29 - Double Heart Click](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Double_Heart_Click)
 |05|[Day 5 - Blurry Loading](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Blurry_Loading)|30|[Day 30 - Auto Text Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Auto_Text_Effect)|
 |06|[Day 6 - Scroll Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Scroll_Animation)|31|[Day 31 - Password Generator](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Password_Generator)|
-|07|[Day 7 - Split Landing Page](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Split_Landing_Page)|
+|07|[Day 7 - Split Landing Page](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Split_Landing_Page)|32|[Day 32 - Good Cheap Fast Checkboxes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Good_Cheap_Fast_Checkboxes)|
 |08|[Day 8 - Form Wave Animation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Form_Wave_Animation)|
 |09|[Day 9 - Sound Board](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sound_Board)|
 |10|[Day 10 - Dad Jokes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Dad_Jokes)|
