@@ -16,7 +16,7 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |10|[Day 10 - Dad Jokes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Dad_Jokes)|35|[Day 35 - Image Carousel](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Image_Carousel)|
 |11|[Day 11 - Event KeyCodes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Event_KeyCodes)|36|[Day 36 - Hoverboard](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hoverboard)|
 |12|[Day 12 - FAQ Collapse](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/FAQ_Collapse)|37|[Day 37 - Pokedex](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Pokedex)|
-|13|[Day 13 - Random Choice Picker](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Choice_Picker)|
+|13|[Day 13 - Random Choice Picker](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Choice_Picker)|38|[Day 38 - Mobile Tab Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Mobile_Tab_Navigation)|
 |14|[Day 14 - Animated Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Animated_Navigation)|
 |15|[Day 15 - Incrementing Counter](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Incrementing_Counter)|
 |16|[Day 16 - Drink Water](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drink_Water)|
