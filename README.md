@@ -17,15 +17,15 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |11|[Day 11 - Event KeyCodes](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Event_KeyCodes)|36|[Day 36 - Hoverboard](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Hoverboard)|
 |12|[Day 12 - FAQ Collapse](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/FAQ_Collapse)|37|[Day 37 - Pokedex](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Pokedex)|
 |13|[Day 13 - Random Choice Picker](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Choice_Picker)|38|[Day 38 - Mobile Tab Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Mobile_Tab_Navigation)|
-|14|[Day 14 - Animated Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Animated_Navigation)|
-|15|[Day 15 - Incrementing Counter](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Incrementing_Counter)|
-|16|[Day 16 - Drink Water](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drink_Water)|
-|17|[Day 17 - Movie App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Movie_App)|
-|18|[Day 18 - Background Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Background_Slider)|
-|19|[Day 19 - Theme Clock](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Theme_Clock)|
-|20|[Day 20 - Button Ripple Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Button_Ripple_Effect)|
-|21|[Day 21 - Drag N Drop](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drag_N_Drop)|
-|22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|
-|23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|
-|24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|
-|25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|
+|14|[Day 14 - Animated Navigation](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Animated_Navigation)|39|[Day 39 - Password Strength Background](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Password_Strength_Background)|
+|15|[Day 15 - Incrementing Counter](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Incrementing_Counter)|40|[Day 40 - 3D Background Boxes]()|
+|16|[Day 16 - Drink Water](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drink_Water)|41|[Day 41 - Verify Account UI]()|
+|17|[Day 17 - Movie App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Movie_App)|42|[Day 42 - Live User Filter]()|
+|18|[Day 18 - Background Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Background_Slider)|43|[Day 43 - Feedback UI Design]()|
+|19|[Day 19 - Theme Clock](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Theme_Clock)|44|[Day 44 - Custom Range Slider]()|
+|20|[Day 20 - Button Ripple Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Button_Ripple_Effect)|45|[Day 45 - Netflix Navigation]()|
+|21|[Day 21 - Drag N Drop](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drag_N_Drop)|46|[Day 46 - Quiz App]()|
+|22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|47|[Day 47 - Testimonial Box Switcher]()|
+|23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|48|[Day 48 - Random Image Feed]()|
+|24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|49|[Day 49 - Todo List]()|
+|25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|50|[Day 50 - Insect Catch Game]()|
