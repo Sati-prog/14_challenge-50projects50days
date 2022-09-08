@@ -22,7 +22,7 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |16|[Day 16 - Drink Water](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drink_Water)|41|[Day 41 - Verify Account UI](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Verify_Account_UI)|
 |17|[Day 17 - Movie App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Movie_App)|42|[Day 42 - Live User Filter](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Live_User_Filter)|
 |18|[Day 18 - Background Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Background_Slider)|43|[Day 43 - Feedback UI Design](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Feedback_UI_Design)|
-|19|[Day 19 - Theme Clock](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Theme_Clock)|44|[Day 44 - Custom Range Slider]()|
+|19|[Day 19 - Theme Clock](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Theme_Clock)|44|[Day 44 - Custom Range Slider](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Custom_Range_Slider)|
 |20|[Day 20 - Button Ripple Effect](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Button_Ripple_Effect)|45|[Day 45 - Netflix Navigation]()|
 |21|[Day 21 - Drag N Drop](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drag_N_Drop)|46|[Day 46 - Quiz App]()|
 |22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|47|[Day 47 - Testimonial Box Switcher]()|
