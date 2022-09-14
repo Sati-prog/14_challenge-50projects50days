@@ -27,5 +27,5 @@ Like many others, I decided to take the challenge to consolidate my knowledge, s
 |21|[Day 21 - Drag N Drop](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drag_N_Drop)|46|[Day 46 - Quiz App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Quiz_App)|
 |22|[Day 22 - Drawing App](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Drawing_App)|47|[Day 47 - Testimonial Box Switcher](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Testimonial_Box_Switcher)|
 |23|[Day 23 - Kinetic CSS Loader](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Kinetic_CSS_Loader)|48|[Day 48 - Random Image Feed](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Random_Image_Feed)|
-|24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|49|[Day 49 - Todo List]()|
+|24|[Day 24 - Content Placeholder](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Content_Placeholder)|49|[Day 49 - Todo List](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Todo_List)|
 |25|[Day 25 - Sticky Navbar](https://github.com/Sati-prog/12_challenge-50projects50days/tree/main/Sticky_Navbar)|50|[Day 50 - Insect Catch Game]()|
