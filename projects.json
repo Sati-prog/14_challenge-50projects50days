@@ -1,0 +1,352 @@
+{
+    "001" : {
+        "path" : "./Expanding_Cards/",
+        "img" : "img/1.png",
+        "name" : "Expanding Cards",
+        "descr" : "Unusual stylish slider"
+    },
+
+    "002" : {
+        "path" : "./Progress_Steps/",
+        "img" : "img/2.png",
+        "name" : "Progress Steps",
+        "descr" : "03 steps to full load"
+    },
+
+    "003" : {
+        "path" : "./Rotating_Navigation/",
+        "img" : "img/3.png",
+        "name" : "Rotating Navigation",
+        "descr" : "Menu that is hidden"
+    },
+
+    "004" : {
+        "path" : "./Hidden_Search_Widget/",
+        "img" : "img/4.png",
+        "name" : "Search Widget",
+        "descr" : "Always there, but invisible"
+    },
+
+    "005" : {
+        "path" : "./Blurry_Loading/",
+        "img" : "img/5.png",
+        "name" : "Blurry Loading",
+        "descr" : "Clarity appears"
+    },
+
+    "006" : {
+        "path" : "./Scroll_Animation/",
+        "img" : "img/6.png",
+        "name" : "Scroll Animation",
+        "descr" : "Live content"
+    },
+
+    "007" : {
+        "path" : "./Split_Landing_Page/",
+        "img" : "img/7.png",
+        "name" : "Split Landing Page",
+        "descr" : "02 products instead of 1"
+    },
+
+    "008" : {
+        "path" : "./Form_Wave_Animation/",
+        "img" : "img/8.png",
+        "name" : "Form Animation",
+        "descr" : "Not corny"
+    },
+
+    "009" : {
+        "path" : "./Sound_Board/",
+        "img" : "img/9.png",
+        "name" : "Sound Board",
+        "descr" : "Off-screen emotions"
+    },
+
+    "010" : {
+        "path" : "./Dad_Jokes/",
+        "img" : "img/10.png",
+        "name" : "Dad Jokes",
+        "descr" : "With a sense of humor"
+    },
+
+    "011" : {
+        "path" : "./Event_KeyCodes/",
+        "img" : "img/11.png",
+        "name" : "Event KeyCodes",
+        "descr" : "Just push the button"
+    },
+
+    "012" : {
+        "path" : "./FAQ_Collapse/",
+        "img" : "img/12.png",
+        "name" : "FAQ Collapse",
+        "descr" : "Completed answers here"
+    },
+
+    "013" : {
+        "path" : "./Random_Choice_Picker/",
+        "img" : "img/13.png",
+        "name" : "Choice Picker",
+        "descr" : "Dancing words"
+    },
+
+    "014" : {
+        "path" : "./Animated_Navigation/",
+        "img" : "img/14.png",
+        "name" : "Animated Navigation",
+        "descr" : "Compact menu"
+    },
+
+    "015" : {
+        "path" : "./Incrementing_Counter/",
+        "img" : "img/15.png",
+        "name" : "Incrementing Counter",
+        "descr" : "The bigger, the better"
+    },
+
+    "016" : {
+        "path" : "./Drink_Water/",
+        "img" : "img/16.png",
+        "name" : "Drink Water",
+        "descr" : "Drink to health"
+    },
+
+    "017" : {
+        "path" : "./Movie_App/",
+        "img" : "img/17.png",
+        "name" : "Movie App",
+        "descr" : "Look for interesting films"
+    },
+
+    "018" : {
+        "path" : "./Background_Slider/",
+        "img" : "img/18.png",
+        "name" : "Background Slider",
+        "descr" : "Contemplate beauty"
+    },
+
+    "019" : {
+        "path" : "./Theme_Clock/",
+        "img" : "img/19.png",
+        "name" : "Theme Clock",
+        "descr" : "Precious time"
+    },
+
+    "020" : {
+        "path" : "./Button_Ripple_Effect/",
+        "img" : "img/20.png",
+        "name" : "Ripple Effect",
+        "descr" : "Dive deep"
+    },
+
+
+    "021" : {
+        "path" : "./Drag_N_Drop/",
+        "img" : "img/21.png",
+        "name" : "Drag N Drop",
+        "descr" : "Creative without limits"
+    },
+
+    "022" : {
+        "path" : "./Drawing_App/",
+        "img" : "img/22.png",
+        "name" : "Drawing App",
+        "descr" : "Imitation tablet"
+    },
+
+    "023" : {
+        "path" : "./Kinetic_CSS_Loader/",
+        "img" : "img/23.png",
+        "name" : "Kinetic CSS Loader",
+        "descr" : "No boring waiting"
+    },
+
+    "024" : {
+        "path" : "./Content_Placeholder/",
+        "img" : "img/24.png",
+        "name" : "Content Placeholder",
+        "descr" : "Caring for users"
+    },
+
+    "025" : {
+        "path" : "./Sticky_Navbar/",
+        "img" : "img/25.png",
+        "name" : "Sticky Navbar",
+        "descr" : "Always near"
+    },
+
+    "026" : {
+        "path" : "./Double_Vertical_Slider/",
+        "img" : "img/26.png",
+        "name" : "Double Vertical Slider",
+        "descr" : "Expanding the horizon"
+    },
+
+    "027" : {
+        "path" : "./Toast_Notification/",
+        "img" : "img/27.png",
+        "name" : "Toast Notification",
+        "descr" : "Boundless Communication"
+    },
+
+    "028" : {
+        "path" : "./Github_Profiles/",
+        "img" : "img/28.png",
+        "name" : "Github Profiles",
+        "descr" : "Open up to the world"
+    },
+
+    "029" : {
+        "path" : "./Double_Heart_Click/",
+        "img" : "img/29.png",
+        "name" : "Double Heart Click",
+        "descr" : "Express recognition"
+    },
+
+    "030" : {
+        "path" : "./Auto_Text_Effect/",
+        "img" : "img/30.png",
+        "name" : "Auto Text Effect",
+        "descr" : "Nimble text"
+    },
+
+    "031" : {
+        "path" : "./Password_Generator/",
+        "img" : "img/31.png",
+        "name" : "Password Generator",
+        "descr" : "No need to invent"
+    },
+
+    "032" : {
+        "path" : "./Good_Cheap_Fast_Checkboxes/",
+        "img" : "img/32.png",
+        "name" : "Honest Checkboxes",
+        "descr" : "The choice is yours"
+    },
+
+    "033" : {
+        "path" : "./Notes_App/",
+        "img" : "img/33.png",
+        "name" : "Notes App",
+        "descr" : "Impossible to forget"
+    },
+
+    "034" : {
+        "path" : "./Animated_Countdown/",
+        "img" : "img/34.png",
+        "name" : "Animated Countdown",
+        "descr" : "Get your way"
+    },
+
+    "035" : {
+        "path" : "./Image_Carousel/",
+        "img" : "img/35.png",
+        "name" : "Image Carousel",
+        "descr" : "Auto flip images"
+    },
+
+    "036" : {
+        "path" : "./Hoverboard/",
+        "img" : "img/36.png",
+        "name" : "Hoverboard",
+        "descr" : "Make magic with color"
+    },
+
+    "037" : {
+        "path" : "./Pokedex/",
+        "img" : "img/37.png",
+        "name" : "Pokedex",
+        "descr" : "Cute creatures"
+    },
+
+    "038" : {
+        "path" : "./Mobile_Tab_Navigation/",
+        "img" : "img/38.png",
+        "name" : "Mobile Tab Navigation",
+        "descr" : "Sorting information"
+    },
+
+    "039" : {
+        "path" : "./Password_Strength_Background/",
+        "img" : "img/39.png",
+        "name" : "Password Strength",
+        "descr" : "Use a hint"
+    },
+
+    "040" : {
+        "path" : "./3D_Background_Boxes/",
+        "img" : "img/40.png",
+        "name" : "3D Background Boxes",
+        "descr" : "Assemble the puzzle"
+    },
+
+    "041" : {
+        "path" : "./Verify_Account_UI/",
+        "img" : "img/41.png",
+        "name" : "Verify Account UI",
+        "descr" : "Confirm email address"
+    },
+
+    "042" : {
+        "path" : "./Live_User_Filter/",
+        "img" : "img/42.png",
+        "name" : "Live User Filter",
+        "descr" : "Find new friends"
+    },
+
+    "043" : {
+        "path" : "./Feedback_UI_Design/",
+        "img" : "img/43.png",
+        "name" : "Feedback UI Design",
+        "descr" : "How satisfied are you?"
+    },
+
+    "044" : {
+        "path" : "./Custom_Range_Slider/",
+        "img" : "img/44.png",
+        "name" : "Custom Range Slider",
+        "descr" : "Percentage of something"
+    },
+
+    "045" : {
+        "path" : "./Netflix_Navigation/",
+        "img" : "img/45.png",
+        "name" : "Netflix Navigation",
+        "descr" : "Open like a book"
+    },
+
+    "046" : {
+        "path" : "./Quiz_App/",
+        "img" : "img/46.png",
+        "name" : "Quiz App",
+        "descr" : "Knowledge is power"
+    },
+
+    "047" : {
+        "path" : "./Testimonial_Box_Switcher/",
+        "img" : "img/47.png",
+        "name" : "Testimonial Switcher",
+        "descr" : "Other people's opinions"
+    },
+
+    "048" : {
+        "path" : "./Random_Image_Feed/",
+        "img" : "img/48.png",
+        "name" : "Random Feed",
+        "descr" : "Images for every taste"
+    },
+
+    "049" : {
+        "path" : "./Todo_List/",
+        "img" : "img/49.png",
+        "name" : "Todo List",
+        "descr" : "Be productive"
+    },
+
+    "050" : {
+        "path" : "./Insect_Catch_Game/",
+        "img" : "img/50.png",
+        "name" : "Insect Catch",
+        "descr" : "Crazy game"
+    }
+}
